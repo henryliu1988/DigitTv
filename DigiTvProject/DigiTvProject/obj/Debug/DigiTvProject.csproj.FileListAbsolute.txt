@@ -1,0 +1,13 @@
+D:\shuzi\DigiTvProject\DigiTvProject\bin\Debug\DigiTvProject.exe.config
+D:\shuzi\DigiTvProject\DigiTvProject\bin\Debug\DigiTvProject.exe
+D:\shuzi\DigiTvProject\DigiTvProject\bin\Debug\DigiTvProject.pdb
+D:\shuzi\DigiTvProject\DigiTvProject\obj\Debug\DigiTvProject.csprojResolveAssemblyReference.cache
+D:\shuzi\DigiTvProject\DigiTvProject\obj\Debug\DigiTvProject.Home.resources
+D:\shuzi\DigiTvProject\DigiTvProject\obj\Debug\DigiTvProject.Properties.Resources.resources
+D:\shuzi\DigiTvProject\DigiTvProject\obj\Debug\DigiTvProject.csproj.GenerateResource.Cache
+D:\shuzi\DigiTvProject\DigiTvProject\obj\Debug\DigiTvProject.exe
+D:\shuzi\DigiTvProject\DigiTvProject\obj\Debug\DigiTvProject.pdb
+D:\shuzi\DigiTvProject\DigiTvProject\obj\Debug\DigiTvProject.RealForm.resources
+D:\shuzi\DigiTvProject\DigiTvProject\obj\Debug\DigiTvProject.FullForm.resources
+D:\shuzi\DigiTvProject\DigiTvProject\obj\Debug\DigiTvProject.HistoryForm.resources
+D:\shuzi\DigiTvProject\DigiTvProject\obj\Debug\DigiTvProject.SearchFrom.resources
