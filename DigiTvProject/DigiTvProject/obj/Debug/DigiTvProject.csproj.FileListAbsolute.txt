@@ -11,3 +11,16 @@ D:\shuzi\DigiTvProject\DigiTvProject\obj\Debug\DigiTvProject.RealForm.resources
 D:\shuzi\DigiTvProject\DigiTvProject\obj\Debug\DigiTvProject.FullForm.resources
 D:\shuzi\DigiTvProject\DigiTvProject\obj\Debug\DigiTvProject.HistoryForm.resources
 D:\shuzi\DigiTvProject\DigiTvProject\obj\Debug\DigiTvProject.SearchFrom.resources
+G:\net\DigitTv\DigiTvProject\DigiTvProject\bin\Debug\DigiTvProject.exe.config
+G:\net\DigitTv\DigiTvProject\DigiTvProject\obj\Debug\DigiTvProject.exe
+G:\net\DigitTv\DigiTvProject\DigiTvProject\obj\Debug\DigiTvProject.pdb
+G:\net\DigitTv\DigiTvProject\DigiTvProject\bin\Debug\DigiTvProject.exe
+G:\net\DigitTv\DigiTvProject\DigiTvProject\bin\Debug\DigiTvProject.pdb
+G:\net\DigitTv\DigiTvProject\DigiTvProject\obj\Debug\DigiTvProject.csprojResolveAssemblyReference.cache
+G:\net\DigitTv\DigiTvProject\DigiTvProject\obj\Debug\DigiTvProject.FullForm.resources
+G:\net\DigitTv\DigiTvProject\DigiTvProject\obj\Debug\DigiTvProject.HistoryForm.resources
+G:\net\DigitTv\DigiTvProject\DigiTvProject\obj\Debug\DigiTvProject.Home.resources
+G:\net\DigitTv\DigiTvProject\DigiTvProject\obj\Debug\DigiTvProject.Properties.Resources.resources
+G:\net\DigitTv\DigiTvProject\DigiTvProject\obj\Debug\DigiTvProject.RealForm.resources
+G:\net\DigitTv\DigiTvProject\DigiTvProject\obj\Debug\DigiTvProject.SearchFrom.resources
+G:\net\DigitTv\DigiTvProject\DigiTvProject\obj\Debug\DigiTvProject.csproj.GenerateResource.Cache

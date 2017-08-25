@@ -46,7 +46,7 @@ namespace DigiTvProject
         private void initChartNewDevice() {
             List<string> xData = new List<string>() { "00:00", "01:00", "02:00", "03:00", "04:00", "05:00", "06:00", "07:00", "08:00", "09:00", "10:00", "11:00", "12:00", "13:00", "14:00", "15:00", "16:00", "17:00", "18:00", "19:00", "20:00", "21:00", "22:00", "23:00" };
             List<int> y1Data = new List<int>() { 256, 187, 35, 54, 15, 18, 5, 40, 89, 156, 215, 236, 257, 246, 268, 238, 298, 305, 359, 446, 406, 398, 456,400 };
-            List<int> y2Data = new List<int>() { 240, 165, 40, 68, 19, 22, 3, 20, 79, 186, 226, 247, 257, 246, 268, 238, 298, 305, 359, 446, 406, 398, 456, 400 };
+            List<int> y2Data = new List<int>() { 240, 165, 40, 68, 19, 22, 3, 20, 79, 186, 226, 247, 269, 310, 268, 178, 168, 298, 389, 402, 400, 350, 289, 401 };
 
             Series s1 = new Series();
             Series s2 = new Series();
@@ -62,9 +62,9 @@ namespace DigiTvProject
             //标记点边框颜色      
             chart_new_device.Series[0].MarkerBorderColor = Color.Black;
             //标记点边框大小
-            chart_new_device.Series[0].MarkerBorderWidth = 3;
+            chart_new_device.Series[0].MarkerBorderWidth = 1;
             //标记点中心颜色
-            chart_new_device.Series[0].MarkerColor = Color.Red;
+            chart_new_device.Series[0].MarkerColor = Color.Green;
             //标记点大小
             chart_new_device.Series[0].MarkerSize = 8;
             chart_new_device.Series[0].MarkerStyle = MarkerStyle.Circle; 
@@ -73,17 +73,19 @@ namespace DigiTvProject
 
             //线条颜色
             chart_new_device.Series[1].ChartType = SeriesChartType.Line; 
-            chart_new_device.Series[1].Color = Color.Green;
+            chart_new_device.Series[1].Color = Color.Blue;
             //线条粗细
             chart_new_device.Series[1].BorderWidth = 1;
             //标记点边框颜色      
             chart_new_device.Series[1].MarkerBorderColor = Color.Black;
             //标记点边框大小
-            chart_new_device.Series[1].MarkerBorderWidth = 3;
+            chart_new_device.Series[1].MarkerBorderWidth = 1;
             //标记点中心颜色
-            chart_new_device.Series[1].MarkerColor = Color.Red;
+            chart_new_device.Series[1].MarkerColor = Color.Blue;
+            chart_new_device.Series[1].MarkerStyle = MarkerStyle.Circle; 
             //标记点大小
             chart_new_device.Series[1].MarkerSize = 8;
+           // chart_new_device.Series[1].IsValueShownAsLabel = true;
             chart_new_device.Series[1].Points.DataBindXY(xData, y2Data);
 
 
@@ -130,6 +132,9 @@ namespace DigiTvProject
             //标记点大小
             chart_start_count.Series[1].MarkerSize = 8;
             chart_start_count.Series[1].Points.DataBindXY(xData, y2Data);
+        }
+
+        private void initMonthCharts() { 
         }
     }
 }
